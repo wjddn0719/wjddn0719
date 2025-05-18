@@ -35,7 +35,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjddnlee)](https://solved.ac/wjddnlee)
 
-> 꾸준히 알고리즘 문제를 풀이하며 사고력을 확장하고 있습니다.
+> 골드찍고싶습니다.
 
 ---
 
