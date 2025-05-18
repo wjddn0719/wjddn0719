@@ -43,7 +43,7 @@
 
 - 📸 Instagram: [@jeon.g791](https://instagram.com/jeon.g791)
 - 📓 Blog: [벨로그 바로가기](https://velog.io/@squeezewisdom)
-- 💡 백준 프로필: [solved.ac/wjddnlee](https://solved.ac/wjddnlee)
+- 💡 백준 프로필: [solved.ac/wjddnlee](https://www.acmicpc.net/user/wjddnlee)
 
 ---
 
