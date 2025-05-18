@@ -3,7 +3,7 @@
 # 👋 Hello, I'm wjddnlee
 
 현재 부산소프트웨어마이스터고등학교에 재학중이며,
-임베디드 개발자가 되기위해 노력하고있습니다.
+임베디드 개발자가 되기 위해 노력하고 있습니다.
 
 ---
 
@@ -26,7 +26,7 @@
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=wjddn0719&show_icons=true&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_wjddn0719&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wjddn0719&layout=compact" />
 </p>
 
 ---
