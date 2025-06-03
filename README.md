@@ -5,13 +5,6 @@
 현재 부산소프트웨어마이스터고등학교에 재학중이며,
 임베디드 개발자가 되기 위해 노력하고 있습니다.
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=wjddn0719&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/wjddn0719?pet-id=717655851233829271"
-    width="1000"
-    height="120"
-  />
-</a>
 ---
 
 ## 🧩 Tech Stack
