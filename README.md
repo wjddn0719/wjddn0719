@@ -1,4 +1,20 @@
 <!-- README.md -->
+---
+
+## 🌱 GitHub Grass (3D)
+
+[![GitHub 3D Grass](https://github.com/wjddn0719/wjddn0719/assets/your-image-id)](https://github.com/wjddn0719)
+
+> 더 푸르게, 더 높이!
+
+<!-- 또는 아래처럼 외부 서비스 사용도 가능 -->
+<!-- 
+<p align="center">
+  <img src="https://ghchart.rshah.org/green/wjddn0719" alt="wjddn0719's GitHub chart" />
+</p>
+-->
+
+
 
 # 👋 Hello, I'm wjddnlee
 
