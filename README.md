@@ -28,7 +28,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjddnlee)](https://solved.ac/wjddnlee)
 
-> 목표: **백준 골드 달성**  
+> 목표: **백준 플레티넘 달성**  
 > 현재 꾸준히 알고리즘 공부 중입니다.
 
 ---
